@@ -1,0 +1,1594 @@
+
+
+----ClassReg Model: CiteSeer----
+Embeddings Generation Time:  203.69468426704407 seconds
+Training Time:  0.25330615043640137 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.17054319381713867 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Cora----
+Embeddings Generation Time:  208.85321283340454 seconds
+Training Time:  0.137603759765625 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Training Time:  0.28623414039611816 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  11.557040452957153 seconds
+Training Time:  0.04511427879333496 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  11.071990251541138 seconds
+Training Time:  0.057845115661621094 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: PubMed-Diabetes----
+Embeddings Generation Time:  937.6007461547852 seconds
+Training Time:  1.0780200958251953 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: PubMed-Diabetes----
+Embeddings Generation Time:  948.1603808403015 seconds
+Training Time:  0.307147741317749 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: PubMed-Diabetes----
+Training Time:  1.0392205715179443 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Terrorists-Relation----
+Embeddings Generation Time:  215.9391267299652 seconds
+Training Time:  0.4290578365325928 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----ClassReg Model: Zachary-Karate----
+Embeddings Generation Time:  1.7631769180297852 seconds
+Training Time:  0.015956878662109375 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Embeddings Generation Time:  1.9573397636413574 seconds
+Training Time:  0.014959335327148438 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: CiteSeer----
+Embeddings Generation Time:  208.2259979248047 seconds
+Training Time:  0.29051709175109863 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.18753981590270996 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.17079925537109375 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.15941548347473145 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Cora----
+Training Time:  0.1216733455657959 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Training Time:  0.24979233741760254 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Training Time:  0.1207723617553711 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  11.815866947174072 seconds
+Training Time:  0.06797528266906738 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  11.170215606689453 seconds
+Training Time:  0.050812482833862305 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  12.3351469039917 seconds
+Training Time:  0.04979872703552246 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: PubMed-Diabetes----
+Embeddings Generation Time:  3483.2175064086914 seconds
+Training Time:  3.8065896034240723 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: PubMed-Diabetes----
+Training Time:  0.6527073383331299 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: PubMed-Diabetes----
+Training Time:  3.752662181854248 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Terrorists-Relation----
+Embeddings Generation Time:  227.44089460372925 seconds
+Training Time:  0.3962099552154541 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  11.548771619796753 seconds
+Training Time:  0.05327606201171875 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Embeddings Generation Time:  14.023471355438232 seconds
+Training Time:  0.057562828063964844 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Zachary-Karate----
+Embeddings Generation Time:  2.071493625640869 seconds
+Training Time:  0.024933576583862305 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Embeddings Generation Time:  3.1203014850616455 seconds
+Training Time:  0.02094435691833496 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: CiteSeer----
+Embeddings Generation Time:  196.08712458610535 seconds
+Training Time:  0.1825721263885498 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: CiteSeer----
+Embeddings Generation Time:  194.29119277000427 seconds
+Training Time:  0.1515216827392578 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Cora----
+Embeddings Generation Time:  213.50160932540894 seconds
+Training Time:  0.26509714126586914 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Embeddings Generation Time:  219.77066779136658 seconds
+Training Time:  0.12619590759277344 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Embeddings Generation Time:  210.7227008342743 seconds
+Training Time:  0.25785231590270996 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Embeddings Generation Time:  217.72163105010986 seconds
+Training Time:  0.25967907905578613 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.1376950740814209 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.0242612361907959 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.029293298721313477 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.04996681213378906 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.04864931106567383 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.05546164512634277 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.052031755447387695 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.024141788482666016 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.025503158569335938 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.025661706924438477 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Terrorists-Relation----
+Training Time:  0.5121614933013916 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.027327775955200195 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.022580862045288086 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.029691457748413086 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.04051995277404785 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.027325868606567383 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.049005746841430664 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.047042131423950195 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.05199718475341797 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.038572072982788086 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.03904247283935547 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.04108309745788574 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.05627799034118652 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Terrorists-Relation----
+Training Time:  0.26218628883361816 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.2777214050292969 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Cora----
+Training Time:  0.30475521087646484 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Training Time:  0.3352813720703125 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Training Time:  0.30677247047424316 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.054677724838256836 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.05565190315246582 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Terrorists-Relation----
+Training Time:  0.24392271041870117 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----ClassReg Model: PubMed-Diabetes----
+Training Time:  5.577340841293335 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: Fb-Forum----
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  0.09396886825561523 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----ClassReg Model: Terrorists-Relation----
+Training Time:  0.3467528820037842 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.05153036117553711 seconds
+
+Evaluation Report:
+avg_pr :  0.9187
+precision :  0.8235
+recall :  0.9333
+accuracy :  0.871
+f1 :  0.875
+mcc :  0.749
+auc_roc :  0.9208
+top_1 :  0.871
+top_3 :  0.871
+
+
+----ClassReg Model: Cora----
+Training Time:  0.25871753692626953 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.05076169967651367 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.11914777755737305 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.5954968929290771 seconds
+
+Evaluation Report:
+avg_pr :  0.9699
+precision :  0.9077
+recall :  0.9365
+accuracy :  0.9209
+f1 :  0.9219
+mcc :  0.8423
+auc_roc :  0.9741
+top_1 :  0.9209
+top_3 :  0.9209
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.1358354091644287 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.14881491661071777 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Cora----
+Training Time:  1.9483072757720947 seconds
+
+Evaluation Report:
+avg_pr :  0.9991
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9991
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Cora----
+Training Time:  2.3558337688446045 seconds
+
+Evaluation Report:
+avg_pr :  0.9991
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9991
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.08346009254455566 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.0873117446899414 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Internet-Industry-Partnerships----
+Training Time:  0.364335298538208 seconds
+
+Evaluation Report:
+avg_pr :  0.9699
+precision :  0.9077
+recall :  0.9365
+accuracy :  0.9209
+f1 :  0.9219
+mcc :  0.8423
+auc_roc :  0.9741
+top_1 :  0.9209
+top_3 :  0.9209
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  2.0461673736572266 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  0.9957
+recall :  1.0
+accuracy :  0.9978
+f1 :  0.9978
+mcc :  0.9957
+auc_roc :  1.0
+top_1 :  0.9978
+top_3 :  0.9978
+
+
+----ClassReg Model: CiteSeer----
+
+
+----ClassReg Model: CiteSeer----
+Training Time:  2.1612186431884766 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  0.9957
+recall :  1.0
+accuracy :  0.9978
+f1 :  0.9978
+mcc :  0.9957
+auc_roc :  1.0
+top_1 :  0.9978
+top_3 :  0.9978
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.08697032928466797 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.08410906791687012 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.09151148796081543 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Zachary-Karate----
+Training Time:  0.1362776756286621 seconds
+
+Evaluation Report:
+avg_pr :  0.8846
+precision :  0.75
+recall :  0.6
+accuracy :  0.7097
+f1 :  0.6667
+mcc :  0.4232
+auc_roc :  0.8792
+top_1 :  0.7097
+top_3 :  0.7097
+
+
+----ClassReg Model: Terrorists-Relation----
+Training Time:  5.392309904098511 seconds
+
+Evaluation Report:
+avg_pr :  0.9995
+precision :  0.9988
+recall :  0.9939
+accuracy :  0.9963
+f1 :  0.9963
+mcc :  0.9927
+auc_roc :  0.9995
+top_1 :  0.9963
+top_3 :  0.9963
+
+
+----ClassReg Model: Email-Univ----
+
+
+----ClassReg Model: Cora----
+Training Time:  0.4468343257904053 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----HeuGAT Model: Cora----
+Training Time:  0.40652918815612793 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----HeuGAT Model: Internet-Industry-Partnerships----
+
+
+----HeuGAT Model: Internet-Industry-Partnerships----
+
+
+----HeuGAT Model: CiteSeer----
+Training Time:  0.3529086112976074 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----HeuGAT Model: Internet-Industry-Partnerships----
+
+
+----HeuGAT Model: PubMed-Diabetes----
+Training Time:  3.509181022644043 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----HeuGAT Model: PubMed-Diabetes----
+Training Time:  3.5547611713409424 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----HeuGAT Model: PubMed-Diabetes----
+Training Time:  3.593655586242676 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----HeuGAT Model: PubMed-Diabetes----
+Training Time:  3.755415439605713 seconds
+
+Evaluation Report:
+avg_pr :  1.0
+precision :  1.0
+recall :  1.0
+accuracy :  1.0
+f1 :  1.0
+mcc :  1.0
+auc_roc :  1.0
+top_1 :  1.0
+top_3 :  1.0
+
+
+----HeuGAT Model: Cora----
+Training Time:  0.44853949546813965 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
+
+
+----HeuGAT Model: Internet-Industry-Partnerships----
+Training Time:  0.1012125015258789 seconds
+
+Evaluation Report:
+avg_pr :  0.966
+precision :  0.8605
+recall :  0.881
+accuracy :  0.8696
+f1 :  0.8706
+mcc :  0.7394
+auc_roc :  0.9623
+top_1 :  0.8696
+top_3 :  0.8696
+
+
+----HeuGAT Model: Terrorists-Relation----
+Training Time:  0.37171387672424316 seconds
+
+Evaluation Report:
+avg_pr :  0.9993
+precision :  0.9994
+recall :  0.9927
+accuracy :  0.996
+f1 :  0.996
+mcc :  0.9921
+auc_roc :  0.9991
+top_1 :  0.996
+top_3 :  0.996
+
+
+----HeuGAT Model: Internet-Industry-Partnerships----
+
+
+----HeuGAT Model: Cora----
+Training Time:  0.4033958911895752 seconds
+
+Evaluation Report:
+avg_pr :  0.9998
+precision :  1.0
+recall :  0.9982
+accuracy :  0.9991
+f1 :  0.9991
+mcc :  0.9982
+auc_roc :  0.9997
+top_1 :  0.9991
+top_3 :  0.9991
